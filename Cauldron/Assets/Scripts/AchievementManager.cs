@@ -13,6 +13,7 @@ namespace CauldronCodebase
         bool TryUnlock(NightEvent nightEvent);
         void ClearAll();
     }
+    
 
     public static class AchievIdents
     {
